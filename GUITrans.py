@@ -16,9 +16,8 @@ while True:
     while trans == '':
         g.msgbox('输入不能为空!','注意','好的')
         trans = g.enterbox('请输入需要翻译的内容','输入')
-
-   # trans = input('请输入需要翻译的内容(输入2333退出):')
- 
+    if trans == None:
+        sys.exit(0)
     #if trans =='2333':
      #   break
  
