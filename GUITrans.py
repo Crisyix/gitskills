@@ -1,3 +1,4 @@
+#存在一个bug,点击叉叉没反应
 import easygui as g
 import sys
 import urllib.parse
