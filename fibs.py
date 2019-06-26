@@ -15,6 +15,6 @@ class fibs:
             raise StopIteration
         self.count += 1
         return self.a
-f = fibs(num=12)
+f = fibs(num=13)
 for each in f:
     print(f.a)
