@@ -1,3 +1,7 @@
 This is a new branch named dev
 resolve confict
+<<<<<<< HEAD
 modify on br1
+=======
+modify on master
+>>>>>>> master
